@@ -7,6 +7,8 @@ This is an **AI-powered multimodal healthcare assistant** that allows patients t
 
 Built with **Gradio**, **Groq Whisper**, **Meta-LLaMA 4**, and **Text-to-Speech**, this project demonstrates the fusion of **vision, speech, and language AI**.  
 
+## Here is the demo link : https://youtu.be/QSvdgQov4xI
+
 ## 🚀 Core Features  
 
 ✅ **Voice-to-Text** using **Groq Whisper API**  
